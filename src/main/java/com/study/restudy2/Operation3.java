@@ -3,7 +3,7 @@ package com.study.restudy2;
 public class Operation3 {
 
     public static void main(String[] args) {
-
+        /*
      boolean b1 = true;
      boolean b2 = false;
      boolean b3 = true;
@@ -34,7 +34,18 @@ public class Operation3 {
         // false나오게 할려면 두 식이 false일 때 논리합도 false 리턴.
 
 
+        // 논리부정 !
 
+         */
+       int a = 5;
+       int b = 3;
 
+        if( ! (a < b) && (b > a)) {
+
+return;
+            // true 옆에 논리부정인 !달았기에
+            // 값이 false라면 출력.
+
+        }
     }
 }

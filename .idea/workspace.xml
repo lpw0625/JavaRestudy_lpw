@@ -5,12 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="170da547-0e16-4ffd-af66-d79288eda238" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/study/restudy1/FunctionRestudy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/study/restudy1/Functionexam1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/study/restudy2/Operation1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/study/restudy2/Operation2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/study/restudy2/Operation3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/study/Carinfo/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/study/Carinfo/CarInfoMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/study/Carinfo/CarInfoService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/study/Ifstudy/IfRestudy1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/study/Ifstudy/IfRestudy2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/study/exam1/MenuRestudy01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/study/restudy2/Operaton4.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/study/restudy2/Operation3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/study/restudy2/Operation3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../korit_back_5_teacher_java_study" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../korit_back_java_study_2" beforeDir="false" />
     </list>
@@ -44,18 +48,23 @@
   "keyToString": {
     "Application.FunctionRestudy.executor": "Run",
     "Application.Functionexam1.executor": "Run",
+    "Application.IfRestudy1.executor": "Run",
+    "Application.IfRestudy2.executor": "Run",
+    "Application.MenuRestudy01.executor": "Run",
     "Application.Operation1.executor": "Run",
     "Application.Operation2.executor": "Run",
     "Application.Operation3.executor": "Run",
+    "Application.Operaton4.executor": "Run",
     "Maven.JavaRestudy_lpw [clean].executor": "Run",
     "Maven.JavaRestudy_lpw [install].executor": "Run",
     "Maven.JavaRestudy_lpw [package].executor": "Run",
     "Maven.JavaRestudy_lpw [test].executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/aws/JavaRestudy_lpw_2",
+    "last_opened_file_path": "C:/aws/JavaRestudy_lpw",
     "project.structure.last.edited": "Libraries",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.2",
